@@ -16,7 +16,7 @@ This project is supported by [NIPA] to promote Open Source development.
 How to contribute to Nanny-On Project
 -------------------------------------
 
-Development is done on GitHub in the [naany-on/agent] repository.
+Development is done on GitHub in the [nanny-on/agent] repository.
 
   [naany-on/agent]: <https://github.com/nanny-on/agent>
 

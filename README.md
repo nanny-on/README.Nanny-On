@@ -31,6 +31,14 @@ the same thing or there may be reasons why that feature isn't implemented.
 Disclaimers
 -----------
 
+License
+=======
+
+Nanny-On for Linux is licensed under the GNU General Public License version 3, which means that
+you are free to get and use it for commercial and non-commercial
+purposes as long as you fulfill its conditions.
+
+See the [LICENSE.txt](https://github.com/nanny-on/agent/blob/main/LICENSE) file for more details.
 
 Copyright
 =========

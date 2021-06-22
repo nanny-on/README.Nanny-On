@@ -45,7 +45,7 @@ the original Nanny-On repository using
 
     git clone git://github.com/nanny-on/agent.git
 
-If you intend to contribute to Nanny-On, either to fix bugs or contribute
+If you intend to contribute to Nanny-On project, either to fix bugs or contribute
 new features, you need to fork the Nanny-On repository nanny-on/agent on
 GitHub and clone your public fork instead.
 

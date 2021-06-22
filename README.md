@@ -28,8 +28,24 @@ to get comments from the community.  Someone may be already working on
 the same thing or there may be reasons why that feature isn't implemented.
 
 
-Disclaimers
------------
+For Testing and Development
+---------------------------
+
+Although testing and development could in theory also be done using
+the source tarballs, having a local copy of the git repository with
+the entire project history gives you much more insight into the
+code base.
+
+The official Nanny-On Git Repository is located at [github.com/nanny-on].
+
+A local copy of the Git Repository can be obtained by cloning it from
+the original Nanny-On repository using
+
+    git clone git://github.com/nanny-on.git
+
+If you intend to contribute to Nanny-On, either to fix bugs or contribute
+new features, you need to fork the Nanny-On repository nanny-on/agent on
+GitHub and clone your public fork instead.
 
 License
 =======

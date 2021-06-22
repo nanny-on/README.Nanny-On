@@ -18,7 +18,7 @@ How to contribute to Nanny-On Project
 
 Development is done on GitHub in the [nanny-on/agent] repository.
 
-  [naany-on/agent]: <https://github.com/nanny-on/agent>
+  [nanny-on/agent]: <https://github.com/nanny-on/agent>
 
 To request new features or report bugs, please open an issue on GitHub
 
@@ -36,7 +36,7 @@ the source tarballs, having a local copy of the git repository with
 the entire project history gives you much more insight into the
 code base.
 
-The official Nanny-On Git Repository is located at [github.com/nanny-on].
+The official Nanny-On Git Repository is located at [https://github.com/nanny-on].
 
 A local copy of the Git Repository can be obtained by cloning it from
 the original Nanny-On repository using

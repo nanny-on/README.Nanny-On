@@ -27,6 +27,14 @@ of making a large contribution, open an issue for it before starting work,
 to get comments from the community.  Someone may be already working on
 the same thing or there may be reasons why that feature isn't implemented.
 
+Coding Style
+------------
+
+We know that coding sytle is very personal. However, an open project is likely to have a varienty of members and contributors.
+To make sure effective communication, we hopefully recommend to comply with [Linux kernel coding style].
+
+[Linux kernel coding style]: <https://www.kernel.org/doc/Documentation/process/coding-style.rst>
+
 
 For Testing and Development
 ---------------------------

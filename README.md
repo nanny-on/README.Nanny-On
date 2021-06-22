@@ -3,10 +3,12 @@ Welcome to Nanny-On Open Source Project
 
 Nanny-On is an application control program using adaptive whitelisting technologies.
 Generally, application control programs enhance security features and availability of
-embedded systems such as POS, CD/ATM, Industrial Control Systems, etc.
+embedded systems such as POS, CD/ATM, ICS(Industrial Control System), etc.
 
-This project has been supported by NIPA to promote Open Source development.  
 
+This project is supported by [NIPA] to promote Open Source development.  
+
+ [NIPA]: <https://www.nipa.kr/eng/index.do>
 
 How to contribute to Nanny-On Project
 -------------------------------------
@@ -21,11 +23,6 @@ To submit a patch, please open a pull request on GitHub.  If you are thinking
 of making a large contribution, open an issue for it before starting work,
 to get comments from the community.  Someone may be already working on
 the same thing or there may be reasons why that feature isn't implemented.
-
-Acknowledgements
-----------------
-
-
 
 
 Disclaimers

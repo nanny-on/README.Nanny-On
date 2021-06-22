@@ -9,7 +9,7 @@ Nanny-On project is to implement and maintain application control software for L
 
 You are always welcomed to join this project.
 
-This project is supported by [NIPA] to promote Open Source development.  
+This project is sponsored by [NIPA] to promote Open Source development.  
 
  [NIPA]: <https://www.nipa.kr/eng/index.do>
 

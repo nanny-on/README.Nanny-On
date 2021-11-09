@@ -33,7 +33,7 @@ How to contribute to Nanny-On Project
 We always welcome to contribute our opensource project Nanny-On.
 For deatails, see [this].
 
-[this]: <https://github.com/ALTIBASE/altibase/edit/master/CONTRIBUTING.md>
+[this]: <https://github.com/nanny-on/agent/blob/main/CONTRIBUTING.md>
 
 License
 =======

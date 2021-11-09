@@ -20,11 +20,11 @@ Nanny-On: Next Generation Endpoint Security Protection
 
 Endpoints are a primary target of cyber attacks. Nanny-On delivers the most complete endpoint security functionality using state-of-the-art technologies from preventing execution of unknown malware to hardening systems.
 
-![image](https://github.com/nanny-on/agent/blob/main/nannyon_img.png)
+![image](https://github.com/nanny-on/misc/blob/main/images/nannyon_img.png)
 
 Actually, we have really focused on implementing whitelist-based application control on Linux systems. The reason why we've done it is to overcome the limitations of traditional anti-virus software using signature-based malware detection thechnologies(a.k.a. blacklist-based).
 
-![image](https://github.com/nanny-on/agent/blob/main/whitevsblack.png)
+![image](https://github.com/nanny-on/misc/blob/main/images/whitevsblack.png)
 
 
 How to contribute to Nanny-On Project

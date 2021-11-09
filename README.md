@@ -26,6 +26,12 @@ Actually, we have really focused on implementing whitelist-based application con
 
 ![image](https://github.com/nanny-on/misc/blob/main/images/whitevsblack.png)
 
+Why whitelist-based applcation control
+======================================
+
+When it comes to endpoint protection from malware infection, application controls will bring a variety of benefits to us.
+
+
 
 How to contribute to Nanny-On Project
 =====================================

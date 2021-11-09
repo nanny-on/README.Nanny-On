@@ -25,6 +25,9 @@ using state-of-the-art technologies from preventing execution of unknown malware
 
 ![image](https://github.com/nanny-on/agent/blob/main/nannyon_img.png)
 
+Actually, we have really focused on implementing whitelist-based application control on Linux systems. The reason why we've done it is to overcome the limitations of traditional anti-virus software using blacklist-based malware signature thechnologies.
+
+![image](https://github.com/nanny-on/agent/blob/main/whitevsblack.png)
 
 
 How to contribute to Nanny-On Project

@@ -31,6 +31,8 @@ Actually, we have really focused on implementing whitelist-based application con
 Why Whitelist-based Application Control
 =======================================
 
+Application whitelising has been based on zero-trust concept(defualt-deny).
+
 ![image](https://github.com/nanny-on/misc/blob/main/images/trustmodel.png)
 
 When it comes to prevention from malware infection, application controls will bring a variety of benefits to us.

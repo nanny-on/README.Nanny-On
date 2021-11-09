@@ -27,6 +27,13 @@ using state-of-the-art technologies from preventing execution of unknown malware
 
 
 
+How to contribute to Nanny-On Project
+=====================================
+
+We always welcome to contribute our opensource project Nanny-On.
+For deatails, see [this].
+ [this]: <https://github.com/ALTIBASE/altibase/edit/master/CONTRIBUTING.md>
+
 License
 =======
 

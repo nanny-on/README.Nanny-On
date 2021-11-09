@@ -26,13 +26,12 @@ Actually, we have really focused on implementing whitelist-based application con
 
 ![image](https://github.com/nanny-on/misc/blob/main/images/whitevsblack.png)
 
-Why whitelist-based application control
-======================================
+Why Whitelist-based Application Control
+=======================================
 
 When it comes to malware infection, application controls will bring a variety of benefits to us.
 Firstly, you can protect your endpoints from zero-day attack by unkown malware. This is because application controls eanble your computer systems to execute only approved applications. In other word, unapproved programs including computer virus can't be executed. 
-In addition, prvention from running useless processes makes resource management efficient. 
-
+In addition, prvention from running useless processes not only makes resource management efficient, but improves produtivity.
 
 How to contribute to Nanny-On Project
 =====================================

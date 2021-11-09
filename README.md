@@ -6,10 +6,8 @@ Welcome to Nanny-On Open Source Project
 =======================================
 
 Nanny-On is an application control program taking advantage of adaptive whitelisting technologies.
-Generally, application control programs enhance security features and availability of
-embedded systems such as POS, CD/ATM, ICS(Industrial Control System), etc.
-However, we wish to extend the target system to personal and server computers.
-Nanny-On project is to implement and maintain application control software for Linux kernels.
+Generally, application control programs enhance security features and availability of embedded systems such as POS, CD/ATM, ICS(Industrial Control System), etc.
+However, we wish to extend the target system to personal and server computers. Nanny-On project is to implement and maintain application control software for Linux kernels.
 
 You are always welcomed to join this project.
 
@@ -20,8 +18,7 @@ This project is sponsored by [NIPA] to promote Open Source Software development.
 Nanny-On: Next Generation Endpoint Security Protection
 ======================================================
 
-Endpoints are a primary target of cyber attacks. Nanny-On delivers the most complete endpoint security functionality
-using state-of-the-art technologies from preventing execution of unknown malware to hardening systems.
+Endpoints are a primary target of cyber attacks. Nanny-On delivers the most complete endpoint security functionality using state-of-the-art technologies from preventing execution of unknown malware to hardening systems.
 
 ![image](https://github.com/nanny-on/agent/blob/main/nannyon_img.png)
 

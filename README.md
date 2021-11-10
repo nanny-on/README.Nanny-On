@@ -1,7 +1,3 @@
-# Nanny-On agent for Linux
-
-This repository contains Nanny-On agent source codes. Anyone can contribute to this project.
-
 Welcome to Nanny-On Open Source Project
 =======================================
 
